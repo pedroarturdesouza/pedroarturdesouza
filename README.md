@@ -6,7 +6,7 @@
 
 <div align="center">
     <a href="https://github.com/pedroarturdesouza">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedroarturdesouza&count_private=true&show_icons=true&title_color=D82148&text_color=DEDEDE&icon_color=D82148&bg_color=191919&border_radius=20&hide_border=true"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedroarturdesouza&count_private=true&show_icons=true&title_color=FFFFF0&text_color=DEDEDE&icon_color=FFFFF0&bg_color=191919&border_radius=20&hide_border=true"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroarturdesouza&layout=compact&title_color=fefdfa&text_color=DEDEDE&bg_color=191919&border_radius=20&langs_count=5&&hide_border=true"/>
     </a>
 </div>
@@ -26,4 +26,4 @@
 <div align="center"><br>
   
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D82148&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFF0&height=120&section=footer"/>
